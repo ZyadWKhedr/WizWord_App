@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218908590774",
+    "project_id": "wizwords-8d8b7",
+    "storage_bucket": "wizwords-8d8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218908590774:android:9abfacdc7fc6eec8785c17",
+        "android_client_info": {
+          "package_name": "com.example.wizwords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerlSxKl662pY-c5WYdgGAMh5p6fdhcGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
